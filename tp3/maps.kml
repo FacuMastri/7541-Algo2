@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+	<Document>
+		<name>ir Moscu, Sochi</name>
+
+		<Placemark>
+			<name>Moscu</name>
+			<Point>
+				<coordinates>55.746958,  37.621353</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nizhni Novgorod</name>
+			<Point>
+				<coordinates>56.326944, 44.007500</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sochi</name>
+			<Point>
+				<coordinates>43.585278, 39.720278</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<LineString>
+				<coordinates>55.746958,  37.621353 56.326944, 44.007500</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<LineString>
+				<coordinates>56.326944, 44.007500 43.585278, 39.720278</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
