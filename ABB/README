@@ -29,9 +29,3 @@ adicionales, se pueden indicar en el archivo ‘deps.mk’.
 Las pruebas corren bajo Valgrind una primera vez. Si el programa
 no aborta y los resultados son correctos, se corren una segunda
 con una verificación más exhaustiva de pérdidas de memoria.
-
-Enlaces
-=======
-
-Git: https://github.com/algoritmos-rw/abb_test
-Zip: https://github.com/algoritmos-rw/abb_test/releases/latest
